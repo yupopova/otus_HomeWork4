@@ -1,5 +1,3 @@
-package auth;
-
 import factory.DriverFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
