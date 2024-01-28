@@ -20,8 +20,7 @@ public class HeadlessTest {
 
     @BeforeEach
     public void initDriver() {
-     //   driver = new DriverFactory("--headless").create();
-        driver = new DriverFactory("--start-fullscrean").create();
+        driver = new DriverFactory("--headless").create();
         logger.info("Start driver and open browser in headless");
         waitTools = new WaitTools(driver);
         driver.get(duckUrl);
