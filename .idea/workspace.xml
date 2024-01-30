@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60df5989-9cbb-4952-a6c4-b6ce6539b7ee" name="Changes" comment="HomeWork4">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/auth/FullScreenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FullScreenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/auth/HeadlessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HeadlessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/auth/KioskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KioskTest.java" afterDir="false" />
+    <list default="true" id="60df5989-9cbb-4952-a6c4-b6ce6539b7ee" name="Changes" comment="Исправлен режим открытия браузера в HeadlessTest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +27,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2b8FAM59WYtausDY8nETav1Q1HI" />
@@ -48,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/YPopova/Desktop/praktokaOtus-master",
+    "last_opened_file_path": "C:/Users/YPopova/IdeaProjects/Otus_HomeWork4",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2850575",
@@ -63,7 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.HeadlessTest">
+  <component name="RunManager" selected="Maven.All Tests">
     <configuration name="All Tests" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
