@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Otus_HomeWork4</artifactId>
+    <artifactId>Otus_HomeWork5</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -17,6 +17,7 @@
         <selenium.java.version>3.141.59</selenium.java.version>
         <webdriver.manager.version>5.6.3</webdriver.manager.version>
         <junit.version>5.10.1</junit.version>
+
         <log4j-core.version>2.22.0</log4j-core.version>
         <log4j-api.version>2.22.0</log4j-api.version>
 
@@ -64,8 +65,6 @@
                     <systemProperties>
                         <browser.name>chrome</browser.name>
                         <base.url>https://otus.ru</base.url>
-                        <duck.url>https://duckduckgo.com</duck.url>
-                        <layouts.url>https://demo.w3layouts.com/demos_new/template_demo/03-10-2020/photoflash-liberty-demo_Free/685659620/web/index.html?_ga=2.181802926.889871791.1632394818-2083132868.1632394818</layouts.url>
                     </systemProperties>
                 </configuration>
             </plugin>
